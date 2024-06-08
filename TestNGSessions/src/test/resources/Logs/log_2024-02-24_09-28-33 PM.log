@@ -1,0 +1,8 @@
+[INFO] 24-02-2024 21:28:39 [main] [java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)] - Test case started
+[INFO] 24-02-2024 21:28:39 [main] [java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)] - username:ahmed is written
+[INFO] 24-02-2024 21:28:40 [main] [java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)] - password:ashraf is written
+[INFO] 24-02-2024 21:28:40 [main] [java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)] - login button is clicked
+[INFO] 24-02-2024 21:28:47 [main] [java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)] - Test case started
+[INFO] 24-02-2024 21:28:48 [main] [java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)] - username:ahmed is written
+[INFO] 24-02-2024 21:28:48 [main] [java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)] - password:ashraf is written
+[INFO] 24-02-2024 21:28:48 [main] [java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)] - login button is clicked

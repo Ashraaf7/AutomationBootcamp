@@ -1,0 +1,9 @@
+SessionOne\Annotations.class
+Listeners\Iretry.class
+SessionOne\ParameterClass.class
+SessionOne\Assertion.class
+Listeners\IInvocedMethod.class
+Listeners\ISuite.class
+SessionOne\Dependencies.class
+Listeners\ITest.class
+SessionOne\LogUtility.class

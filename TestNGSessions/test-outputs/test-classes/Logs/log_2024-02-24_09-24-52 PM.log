@@ -1,0 +1,8 @@
+[INFO] 24-02-2024 21:24:59 [main] [SessionOne.ParameterClass] - Test case started
+[INFO] 24-02-2024 21:24:59 [main] [SessionOne.ParameterClass] - username:ahmed is written
+[INFO] 24-02-2024 21:24:59 [main] [SessionOne.ParameterClass] - password:ashraf is written
+[INFO] 24-02-2024 21:24:59 [main] [SessionOne.ParameterClass] - login button is clicked
+[INFO] 24-02-2024 21:25:06 [main] [SessionOne.ParameterClass] - Test case started
+[INFO] 24-02-2024 21:25:07 [main] [SessionOne.ParameterClass] - username:ahmed is written
+[INFO] 24-02-2024 21:25:07 [main] [SessionOne.ParameterClass] - password:ashraf is written
+[INFO] 24-02-2024 21:25:07 [main] [SessionOne.ParameterClass] - login button is clicked

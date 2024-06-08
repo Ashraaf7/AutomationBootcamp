@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Smoke Suite">
+    <test name="Smoke Test on Edge">
+        <classes>
+            <class name="SessionOne.Dependencies">
+                <methods>
+                    <include name="registerTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test name="Smoke Test on Chrome">
+        <classes>
+            <class name="SessionOne.Dependencies">
+                <methods>
+                    <include name="registerTC"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

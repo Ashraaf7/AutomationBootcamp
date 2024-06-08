@@ -1,0 +1,8 @@
+[INFO] 24-02-2024 22:35:05 [main] [SessionOne.ParameterClass.validLoginTestCase2(ParameterClass.java:50)] - Test case started
+[INFO] 24-02-2024 22:35:05 [main] [SessionOne.ParameterClass.validLoginTestCase2(ParameterClass.java:50)] - username:ahmed is written
+[INFO] 24-02-2024 22:35:05 [main] [SessionOne.ParameterClass.validLoginTestCase2(ParameterClass.java:50)] - password:ashraf is written
+[INFO] 24-02-2024 22:35:05 [main] [SessionOne.ParameterClass.validLoginTestCase2(ParameterClass.java:50)] - login button is clicked
+[INFO] 24-02-2024 22:35:10 [main] [SessionOne.ParameterClass.validLoginTestCase2(ParameterClass.java:50)] - Test case started
+[INFO] 24-02-2024 22:35:11 [main] [SessionOne.ParameterClass.validLoginTestCase2(ParameterClass.java:50)] - username:ahmed is written
+[INFO] 24-02-2024 22:35:11 [main] [SessionOne.ParameterClass.validLoginTestCase2(ParameterClass.java:50)] - password:ashraf is written
+[INFO] 24-02-2024 22:35:11 [main] [SessionOne.ParameterClass.validLoginTestCase2(ParameterClass.java:50)] - login button is clicked
